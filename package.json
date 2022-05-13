@@ -1,15 +1,13 @@
 {
   "name": "com.radiantgames.screenshotutils",
-  "version": "1.2.3",
+  "version": "1.0.0",
   "displayName": "Screenshot Utils",
   "description": "Screenshot Utils allows you to cature high quality in-game screenshots",
   "unity": "2020.3",
   "unityRelease": "25f1",
   "documentationUrl": "https://github.com/mohakdev/Unity-Screenshot-Package/blob/main/README.md",
   "licensesUrl": "https://github.com/mohakdev/Unity-Screenshot-Package/blob/main/LICENSE",
-  "dependencies": {
- },
- "keywords": [
+  "keywords": [
     "Screenshot Tool",
     "Screenshot Utils",
     "Screenshot"
@@ -18,5 +16,6 @@
     "name": "Mohak Jain",
     "email": "mohakjain55055@gmail.com",
     "url": "https://github.com/mohakdev/Unity-Screenshot-Package"
-  }
+  },
+  "type": "Tool"
 }
