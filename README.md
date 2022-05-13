@@ -1,24 +1,5 @@
 # Unity-Screenshot-Package
 A unity screenshot package which allows me to take screenshot of the game without losing quality.
-
----
-
-### How to Download
-1. In the package manager window click on the add sign.
-2. Then click on add package from git url
- 
-![image](https://user-images.githubusercontent.com/73052518/168261200-7af697eb-462d-47a4-9ca4-24d56b883232.png)
-
-3. On the top of this repo click on `clone or download` button and click on copy button
-
-![image](https://user-images.githubusercontent.com/73052518/168262470-e8329031-981f-4a91-a32b-ead105c7aa48.png)
-
-4. Now paste this inside the unity package manager window and click on add
-
-![image](https://user-images.githubusercontent.com/73052518/168262733-4cf819f2-3482-4aff-8d46-9ff5ed0ddae4.png)
-
-5. You are Done. Now lets see how to use the package.
-
 ---
 
 ### How to Use
