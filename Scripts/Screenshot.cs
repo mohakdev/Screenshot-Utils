@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Screenshot : MonoBehaviour
 {
-    readonly static string Path = "Packages/com.radiantgames.screenshotutils/Images/";
+    readonly static string Path = "Assets/Screenshot-Utils/Images/";
     readonly static string Time = System.DateTime.Now.ToString("yyyy-MM-dd-HH-mm-ss");
     readonly static string ImageName = $"Img_{Time}.png";
 
@@ -35,7 +35,6 @@ public class Screenshot : MonoBehaviour
         ScreenCapture.CaptureScreenshot(UserPath + "/" + ImageName);
         PrintCompletedLine();
     }
-
 
     static void PrintCompletedLine()
     {
