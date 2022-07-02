@@ -58,6 +58,6 @@ public class Screenshot : MonoBehaviour
     static void PrintCompletedLine()
     {
         //This method is just used to show that screenshot is taken successfully
-        Debug.Log($"ScreenShot Taken! at {GetPath()}");
+        Debug.Log($"ScreenShot Taken!");
     }
 }
